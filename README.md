@@ -1,3 +1,11 @@
 # studentbio
+## HTML Practice
 
-HTML practice in the form of a student bio.
+### Summary
+HTML practice in the form of a student bio!
+
+### Features
+* HTML
+
+### DEMO
+N/A
